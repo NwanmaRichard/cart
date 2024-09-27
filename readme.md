@@ -1,6 +1,6 @@
 # cart
 
-- Description: cart is a simple shopping cart apllication written in Java
+- Description: cart is a simple shopping cart application written in Java
 
 #### Basic Database design
 - Database used: SQL (MySQL)
