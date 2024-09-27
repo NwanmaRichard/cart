@@ -11,5 +11,5 @@
 - JWT
 - MySQL
 
-##ER diagram
+## ER diagram
 ![er](https://github.com/user-attachments/assets/1af802ed-833f-4861-8424-ebdabe0eb24c)
